@@ -1,0 +1,31 @@
+body {
+    margin: 0 auto;
+        
+}
+body .vocabulario .presentationVoc {
+    text-align: center;
+    margin: 0 auto;
+}
+body .parrafos {
+    position: relative;
+    top: 80px
+}
+body .vocabulario {
+    position: relative;
+    top:100px;
+}
+hr {
+    margin: 10px;
+    position: relative;
+    top:95px;
+}
+body .introduction {
+    min-width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: lightblue;
+    width: 100%;
+    padding: 2px;
+    position: fixed;
+}
